@@ -9,7 +9,7 @@ export default function Resume(){
 
   <p className="text-1xl font-semibold flex justify-center items-center ">An Aspiring Web-Developer</p>     
   </div>
-  <div className="mb-4 "> <p className="font-serif text-base text-lg leading-relaxed text-center px-40">A driven student pursuing Bachelor's in Computational Finance at NED University, currently in 3rd Semester.As a dedicated member of university society's Event Management team,I balance academics wth organizing impactful events,teamwork and creativity.I'm also developing skills in Generative AI at GIAIC </p>
+  <div className="mb-4 "> <p className="font-serif text-base text-lg leading-relaxed text-center px-40">A driven student pursuing Bachelor&apos;s in Computational Finance at NED University, currently in 3rd Semester.As a dedicated member of university society&apos;s Event Management team,I balance academics wth organizing impactful events,teamwork and creativity.I&apos;m also developing skills in Generative AI at GIAIC </p>
 </div>
       <h2 className="mb-4 text-white text-bold bg-[rgb(117,92,110)] p-2">
          CONTACT
